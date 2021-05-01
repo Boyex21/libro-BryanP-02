@@ -6,3 +6,7 @@
   sections:
     - file: markdown
     - file: notebooks
+- file: pagina1
+  sections:
+    - file: pagina2
+    - file: pagina3
